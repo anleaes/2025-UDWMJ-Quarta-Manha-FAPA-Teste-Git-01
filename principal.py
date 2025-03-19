@@ -1,4 +1,6 @@
 
+from category import Category
+
 def main():
     pass
 
