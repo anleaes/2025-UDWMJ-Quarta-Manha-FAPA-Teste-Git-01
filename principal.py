@@ -1,4 +1,6 @@
 
+from person import Person
+
 def main():
     pass
 
