@@ -1,6 +1,4 @@
 from socialnetwork import Socialnetwork
-
-
 from person import Person
 from category import Category
 
