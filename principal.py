@@ -2,7 +2,7 @@
 from person import Person
 
 def main():
-    pass
+    print("Teste novo")
 
 
 if __name__ == "__main__": 
