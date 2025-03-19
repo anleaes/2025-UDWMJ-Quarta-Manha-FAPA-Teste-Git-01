@@ -1,5 +1,6 @@
 
 from person import Person
+from category import Category
 
 def main():
     print("Teste novo")
